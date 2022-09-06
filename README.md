@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Diegoi4africa
-- 👀 I’m interested in Andriod/IOS
-- 🌱 I’m currently learning IOS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 3D Web Development
+- 🌱 I’m currently learning Three JS
 - 📫 How to reach me diego.gonzalez@i4africa.com
 
 <!---
